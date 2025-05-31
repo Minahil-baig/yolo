@@ -1,9 +1,5 @@
 streamlit
-torch
-opencv-python-headless
-pillow
-numpy
-gdown
-torchvision
 ultralytics
-seaborn
+opencv-python-headless
+Pillow
+numpy

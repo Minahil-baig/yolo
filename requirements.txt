@@ -1,3 +1,9 @@
-opencv-python-headless
+streamlit
+torch
+opencv-python
+pillow
 numpy
+gdown
+torchvision
 ultralytics
+seaborn
